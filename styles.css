@@ -31,7 +31,7 @@ body {
   display: block;
   margin: 20px auto 0;
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #4e4caf;
   color: white;
   border: none;
   border-radius: 5px;
@@ -39,7 +39,7 @@ body {
 }
 
 .cart button:hover {
-  background-color: #45a049;
+  background-color: #4e4caf;
 }
 
 .overlay {
@@ -69,7 +69,7 @@ body {
 .popup button {
   margin-top: 10px;
   padding: 5px 10px;
-  background-color: #4CAF50;
+  background-color: #4e4caf;
   color: white;
   border: none;
   border-radius: 5px;
@@ -77,5 +77,5 @@ body {
 }
 
 .popup button:hover {
-  background-color: #45a049;
+  background-color: #4e4caf;
 }
